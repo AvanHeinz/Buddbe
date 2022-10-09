@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d6d77503f8ce2344ebf3df8c660b0ff7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - movement: {instanceID: 0}
+  - destroyedVersion: {instanceID: 0}
+  - source: {instanceID: 0}
+  - clip1: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
